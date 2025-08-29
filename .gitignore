@@ -1,0 +1,16 @@
+# build artifacts
+student
+*.o
+*.obj
+*.exe
+
+# macOS / Linux / Windows cruft
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# runtime data
+student.txt
