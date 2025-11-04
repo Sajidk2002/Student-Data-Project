@@ -45,7 +45,7 @@ s) save and exit E) exit (no save)
 ```
 
 ## Author
-**Muhammad Sajid K**  
+ Muhammad Sajid K 
 - Email: muhammadsajidk183@gmail.com  
 - LinkedIn: https://linkedin.com/in/muhammad-sajid-k-620b68257
 ```
